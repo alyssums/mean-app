@@ -1,0 +1,16 @@
+.glyphicon-thumbs-up {
+  cursor: pointer;
+  color: #33BD84;
+}
+.post-title {
+  font-size:20px;
+  margin-left: 10px;
+}
+.post-button {
+  background-color: #33BD84;
+  border-color: #33BD84;
+}
+.post-button:hover {
+  background-color: #3CB382;
+  border-color: #3CB382;
+}
